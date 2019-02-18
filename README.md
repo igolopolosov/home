@@ -1,2 +1,2 @@
-# home
+# 🏡 home
 Home dashboard
